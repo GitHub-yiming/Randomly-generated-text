@@ -1,0 +1,33 @@
+ability,n.本领，有能力的
+able,adj.有能力的，能干的
+be able to do sth.,能/会做某事
+aboard,adv.在船（飞机，车）上，上船（飞机，车）；prep.在船（飞机、车）上
+about,prep.在...附近，在...周围，关于，对于
+be about to do sth.,即将
+above,prep.在...之上，超过上面的；adv.以上，在上面
+above all,首先，尤其，最主要的
+abroad,adv.到国外，在国外
+absent,adj.缺席的，不在场的
+absolute,adj.绝对的，完全的
+absorb,vt.吸收
+be absorbed in,专心于
+abstract,n.摘要，概要，抽象；adj.抽象的，深奥的；vt.抽出，提取
+acdemic,adj.学院的，学术的
+accent,n.口音，腔调
+accept,vt.接受，收下；承认，同意
+access,n.进入；接近，进入的方法
+accident,n.意外事故，偶发事件
+accompany,vt.陪伴，伴随，伴奏
+accomplish,vt.完成；实现
+according,adv.依照
+according to,按照，根据
+account,n.账目，账户
+account for,解释，说明
+accurate,adj.准确的；精确的
+accuse,vt.控告，指控
+ache,n.疼痛；vt.疼痛
+achieve,vt.完成，达到，实现
+achievement,n.完成，达成；成就，成绩
+acqnire,vt.获得，取得
+across,adv.&prep.横过，到对面
+act,n.行为，举动；v.行为，动作

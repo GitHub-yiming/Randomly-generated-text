@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "随机生成文字数据库版", "随机生成文字数据库版\随机生成文字数据库版.csproj", "{81F9C92D-F396-45A9-A44C-288466372CD7}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{65DCA760-2542-4C45-A002-134EBF2AC875}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81F9C92D-F396-45A9-A44C-288466372CD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81F9C92D-F396-45A9-A44C-288466372CD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81F9C92D-F396-45A9-A44C-288466372CD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81F9C92D-F396-45A9-A44C-288466372CD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65DCA760-2542-4C45-A002-134EBF2AC875}.Debug|Any CPU.ActiveCfg = Debug
+		{65DCA760-2542-4C45-A002-134EBF2AC875}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B37C1FEE-68C7-487A-BE5E-D860BEE0D878}
+	EndGlobalSection
+EndGlobal
